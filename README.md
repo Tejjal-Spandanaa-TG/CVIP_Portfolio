@@ -1,0 +1,1 @@
+In this assignment, you will create a personal portfolio website that highlights your abilities, projects, and accomplishments as a web developer. Your portfolio will serve as a representation of your professional identity.
